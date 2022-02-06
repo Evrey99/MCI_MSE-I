@@ -1,0 +1,4 @@
+Tag 0: 5
+Tag 1: 23
+Tag 2: 3
+Summe: 31

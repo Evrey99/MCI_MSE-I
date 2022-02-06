@@ -1,0 +1,8 @@
+Sölden;7
+Ischgl;5
+Kitzbühel;22
+Mayrhofen;16
+Fiss;3
+Obergurgl;36
+Lech;11
+Hintertux;20
